@@ -11,7 +11,7 @@ class BoardMember {
       return "You can do that!"
     }
     doCharity() {
-      returns "I like to help people."
+      return "I like to help people."
     }
     releasePressStatement() {
       return "You will see great things from Scuber."
